@@ -27,7 +27,7 @@ This is probably the most important GDP question.
 
 3. **How did GDP per capita change?**
    - GDP per capita at the beginning and end
-   - Percentage change
+   - Percentage change in GDP per capita
    - Real GDP per capita, where appropriate
    - Compare GDP growth with population growth
 
@@ -41,7 +41,7 @@ For example, if GDP grows 70% but population grows 25%, the experience at the in
    - Standard deviation of growth
    - Maximum growth rate
    - Minimum growth rate
-   - Number of years with particularly weak growth
+   - Number of years with particularly weak growths
 
 Then ask: **Was one period characterized by more stable growth, while the other experienced larger fluctuations?**
 
