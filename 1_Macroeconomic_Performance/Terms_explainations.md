@@ -1,4 +1,4 @@
-## **Q1. (Related terms)**
+## **Dimension 1. (Related terms)**
 #### **First: What is GDP?**
 GDP is the market value of all final goods and services produced withing a country's borders during a particular period, Usually one Year.
 
